@@ -1,0 +1,126 @@
+html {
+	background: #87CEEB;
+}
+
+body {
+    
+font-size: 20px;
+font-family: "Papyrus", "Courier New", monospace;
+border:solid 6px;
+border-color: #228B22;
+border-spacing: 1000px; 
+    
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #228B22;
+  overflow: hidden;
+  position: fixed;
+  top:0;    
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: top
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 25px 25px;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: "Papyrus", "Courier New", monospace;
+}
+    
+
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #eee;
+  color: azure;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+  background-color: ##228B22;
+  color: azure;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}    
+    
+}
+
+p1 {
+    <div></div>
+}
+
+h1 {
+color: #228B22; /* assigns a color value to the h1 element */
+font-size: 30px; /* assigns the type size for the heading */
+font-style:italic;bold;
+font-family: "Papyrus", "Courier New", monospace;
+}
+
+h2 {
+color: #228B22; /* assigns a color value to the h1 element */
+font-size: 35px; /* assigns the type size for the heading */
+font-style:normal;
+font-family: "Papyrus", "Courier New", monospace;
+}
+
+h3 {
+color: #228B22; /* assigns a color value to the h1 element */
+font-size: 30px; /* assigns the type size for the heading */
+font-style:normal;
+font-family: "Papyrus", "Courier New", monospace;
+}
+
+h4 {
+color: #228B22; /* assigns a color value to the h1 element */
+font-size: 30px; /* assigns the type size for the heading */
+font-style:normal;
+font-family: "Papyrus", "Courier New", monospace;
+}
+
+h5 {
+color: #228B22; /* assigns a color value to the h1 element */
+font-size: 30px; /* assigns the type size for the heading */
+font-style:normal;
+font-family: "Papyrus", "Courier New", monospace;
+}
+
+h6 {
+color: #228B22; /* assigns a color value to the h1 element */
+font-size: 35px; /* assigns the type size for the heading */
+font-style:normal;
+font-family: "Papyrus", "Courier New", monospace;
+}
+
+h7 {
+color: #228B22; /* assigns a color value to the h1 element */
+font-size: 35px; /* assigns the type size for the heading */
+font-style:normal;
+font-family: "Papyrus", "Courier New", monospace;
+}
+
+h8 {
+color: #228B22; /* assigns a color value to the h1 element */
+font-size: 30px; /* assigns the type size for the heading */
+font-style:normal;
+font-family: "Papyrus", "Courier New", monospace;
+}
+
+h9  {
+color: #228B22; /* assigns a color value to the h1 element */
+font-size: 30px; /* assigns the type size for the heading */
+font-style:normal;
+font-family: "Papyrus", "Courier New", monospace;
+}
+
+h10 {
+color: #228B22; /* assigns a color value to the h1 element */
+font-size: 30px; /* assigns the type size for the heading */
+font-style:normal;
+font-family: "Papyrus", "Courier New", monospace;
+}
